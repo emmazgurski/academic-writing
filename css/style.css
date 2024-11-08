@@ -1,0 +1,266 @@
+header.background {
+    background-image: url(../images/topbar.png);
+    background-size: 100%;
+}
+
+header.instantinfo {
+    border: 5px solid rgb(80, 80, 80);
+    border-radius: 5px;
+}
+
+img.instnavsmall {
+    width: 60%;
+    height: auto;
+    padding-left: 15%;
+    padding-top: 5%;
+    padding-bottom: 2%;
+    filter: drop-shadow(5px 3px 1px #518E9E);
+}
+
+img.instnavsmaller {
+    width: 60%;
+    height: auto;
+    padding-left: 15%;
+    padding-top: 15%;
+    padding-bottom: 2%;
+    filter: drop-shadow(5px 3px 1px #518E9E);
+}
+
+img.instnavbig {
+    width: 40%;
+    height: auto;
+    padding-left: 15%;
+    padding-top: 5%;
+    padding-bottom: 2%;
+    filter: drop-shadow(5px 3px 1px #518E9E);
+}
+
+img.instnavbig:hover {
+    filter: brightness(120%);
+}
+
+img.instnavsmall:hover {
+    filter: brightness(170%);
+}
+
+img.instnavsmaller:hover {
+    filter: brightness(170%);
+}
+
+
+img.headnavsmall {
+    width: 30%;
+    height: auto;
+    padding-left: 15%;
+    padding-top: 1%;
+    padding-bottom: 15%;
+    filter: drop-shadow(2px 2px 1px #9E6E42);
+}
+
+img.headnavsmaller {
+    width: 40%;
+    height: auto;
+    padding-left: 15%;
+    padding-top: 3%;
+    padding-bottom: 15%;
+    filter: drop-shadow(2px 2px 1px #9E6E42);
+}
+
+img.headnavbig {
+    width: 20%;
+    height: auto;
+    padding-left: 15%;
+    padding-top: 2%;
+    padding-bottom: 15%;
+    filter: drop-shadow(2px 2px 1px #9E6E42);
+}
+
+img.headnavsmall:hover {
+    filter: brightness(170%);
+}
+
+img.headnavsmaller:hover {
+    filter: brightness(170%);
+}
+
+img.headnavbig:hover {
+    filter: brightness(150%);
+}
+
+img.large {
+    width: 100%;
+    height: 65px;
+}
+
+img.landing:hover {
+    filter: brightness(125%);
+}
+
+img.landing {
+    display: block;
+    margin: auto;
+    padding: 5%;
+    filter: drop-shadow(5px 3px 1px #9E6E42);
+}
+
+.background {
+    background-image: url(../images/linesmall.png);
+    background-repeat: space;
+    background-size: 100%;
+    margin-top: 5%;
+    margin-bottom: 5%;
+}
+
+body {
+    background-color: rgb(255, 248, 209);
+}
+
+body.instantinfo {
+    background-color: #B6F0FF
+}
+
+body.dialogue {
+    background-color: #EBBC90;
+}
+
+
+footer {
+    border: 5px solid rgb(80, 80, 80);
+    border-radius: 5px;
+}
+
+nav {
+    display: flex;
+    justify-content: space-around;
+}
+
+img.footnavsmall {
+    width: 60%;
+    height: auto;
+    padding-top: 3%;
+    padding-left: 15%;
+    filter: drop-shadow(5px 3px 1px #518E9E);
+}
+
+img.footnavsmaller {
+    width: 60%;
+    height: auto;
+    padding-top: 13%;
+    padding-left: 15%;
+    filter: drop-shadow(5px 3px 1px #518E9E);
+}
+
+img.footnavbig {
+    width: 40%;
+    height: auto;
+    padding-left: 15%;
+    padding-top: 3%;
+    filter: drop-shadow(5px 3px 1px #518E9E);
+}
+
+img.writingfootnavsmall {
+    width: 60%;
+    height: auto;
+    padding-top: 3%;
+    padding-left: 15%;
+    filter: drop-shadow(4px 2px 1px #9E6E42);
+}
+
+img.writingfootnavsmaller {
+    width: 60%;
+    height: auto;
+    padding-top: 13%;
+    padding-left: 15%;
+    filter: drop-shadow(4px 2px 1px #9E6E42);
+}
+
+img.writingfootnavbig {
+    width: 40%;
+    height: auto;
+    padding-left: 15%;
+    padding-top: 3%;
+    filter: drop-shadow(4px 2px 1px #9E6E42);
+}
+
+img.footnavsmall:hover {
+    filter: brightness(170%);
+}
+
+img.footnavsmaller:hover {
+    filter: brightness(170%);
+}
+
+img.footnavbig:hover {
+    filter: brightness(125%);
+}
+
+img.writingfootnavsmall:hover {
+    filter: brightness(170%);
+}
+
+img.writingfootnavsmaller:hover {
+    filter: brightness(170%);
+}
+
+img.writingfootnavbig:hover {
+    filter: brightness(125%);
+}
+
+p  {
+    font: 1em sans-serif;
+    padding-left: 1%;
+    font-size: larger;
+    font-style: italic;
+    color: rgb(80, 80, 80);
+}
+
+img.instapost {
+    display: block;
+    margin-left: auto;
+    width: 32%;
+    height: auto;
+    filter: drop-shadow(8px 7px 3px #518E9E);
+}
+
+img.textbubble {
+    width: 44%;
+    height: auto;
+    padding-top: 7%;
+    padding-bottom: 7%;
+    filter: drop-shadow(8px 7px 3px #518E9E);
+}
+
+img.writinginstapost {
+    display: block;
+    margin-left: auto;
+    width: 32%;
+    height: auto;
+    filter: drop-shadow(7px 5px 3px #9E6E42);
+}
+
+img.writingtextbubble {
+    width: 44%;
+    height: auto;
+    padding-top: 7%;
+    padding-bottom: 7%;
+    filter: drop-shadow(7px 5px 3px #9E6E42);
+}
+
+img.decal {
+    display: block;
+    margin: auto;
+    width: 12%;
+    height: auto;
+    padding: 5%;
+    filter: drop-shadow(5px 3px 1px #9E6E42);
+}
+
+video {
+    display: block;
+    margin: auto;
+    width: 70%;
+    height: auto;
+    padding-top: 5%;
+    padding-bottom: 5%;
+}
+
